@@ -21,3 +21,6 @@ Now you could launch the main script by typing:
 sudo node lib/index.js
 ```
 sudo is needed to send gpio commands.
+
+# Results
+[Wirings](https://hackster.imgix.net/uploads/attachments/258323/20170205_232018_uLJDtJYLdN.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)

@@ -1,5 +1,6 @@
 # colordistance
 Change color temperature of a led strip based on the distance measured by a sonar.
+Go to the [project home page](https://www.hackster.io/dynamick/colordistance-c4411a) on hackster to discover the details.
 
 ## Requirements
 

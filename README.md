@@ -23,4 +23,5 @@ sudo node lib/index.js
 sudo is needed to send gpio commands.
 
 # Results
+![Video](https://www.youtube.com/watch?v=hAXX9rs4a0s)
 ![Wirings](https://hackster.imgix.net/uploads/attachments/258323/20170205_232018_uLJDtJYLdN.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)
